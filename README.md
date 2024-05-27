@@ -6,7 +6,7 @@
 
 🔷 [UI for our web site project - with notes](https://app.visily.ai/projects/9e9f441d-f5ea-4384-85fc-170508559266/boards/956756)
 .
-🔷 [UI - present mode 🔔 Choose all screens](https://app.visily.ai/projects/9e9f441d-f5ea-4384-85fc-170508559266/boards/956756/presenter?play-mode=All%20screens)<br />
+🔷 [UI - present mode ](https://app.visily.ai/projects/9e9f441d-f5ea-4384-85fc-170508559266/boards/956756/presenter?play-mode=All%20screens)<br />
 
 🔷[Video demonstrating the user interface](https://drive.google.com/file/d/1bMzrqk7A_bBfl56sBaReGSz3mWiOQ5fC/view?usp=sharing)<br />
 
