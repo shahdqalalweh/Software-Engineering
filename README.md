@@ -1,6 +1,6 @@
 # Software-Engineering
 
-
+Software Engineering Course Project: focused on analyzing and planning a centralized educational center system called Nebras, following core Software Engineering principles and methodologies.
 
 🔷 [Project’s diagrams](https://night-tea-b45.notion.site/Project-s-diagrams-8ee67498a5194a45ad17afd8f4bcc418?pvs=4)<br />
 
